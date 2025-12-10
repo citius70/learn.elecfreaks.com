@@ -7,7 +7,7 @@ sidebar_label: 遥控模式
 
  ## 单机遥控
 
-单机遥控是使用 XGOBOT 手机 APP 对机器狗进行遥控和实时图像回传。点击[[XGOBOT APP\]](https://pan.baidu.com/s/16TQQ3AEBwlI37oNj0oQOzA?pwd=d4qa) 下载安装到手机即可或者在苹果应用商店搜索"XGOBOT"找到对对应的应用程序下载即可。
+单机遥控是使用 XGOBOT 手机 APP 对机器狗进行遥控和实时图像回传。点击[XGOBOT APP](https://elecfreaks.com/download/xgo/XGOBOTV1.2.3.apk) 下载安装到手机即可或者在苹果应用商店搜索"XGOBOT"找到对对应的应用程序下载即可。
 
 1. 让机器狗联网
 

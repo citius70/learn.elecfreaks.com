@@ -7,7 +7,7 @@ sidebar_label: Remote Mode
 
  ## Stand-alone remote control
 
-The stand-alone remote control is to use the XGOBOT mobile APP to remotely control the robot dog and send back real-time images. Click [\[XGOBOT APP\]](https://drive.google.com/drive/folders/1dKgBIZHAHC7wmxSXXiN11KBBO8YB_MlC) to download and install it on your mobile phone or search for "XGOBOT" in the Apple App Store to find the corresponding application and download it.
+The stand-alone remote control is to use the XGOBOT mobile APP to remotely control the robot dog and send back real-time images. Click [XGOBOT APP](https://elecfreaks.com/download/xgo/XGOBOTV1.2.3.apk) to download and install it on your mobile phone or search for "XGOBOT" in the Apple App Store to find the corresponding application and download it.
 
 1. Connect the robot dog with the network
 

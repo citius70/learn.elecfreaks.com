@@ -1,31 +1,27 @@
 ---
 sidebar_position: 2
-sidebar_label: Petal系列传感器
+sidebar_label: Petal Series Sensors
 ---
 
-# Petal系列传感器
+# Petal Series Sensors
 
-## 产品简介
+## Product Overview
 
-**Petal（花瓣）系列**： “花瓣”这个名字反映了我们传感器的本质：模块化设计，每个组件就像花瓣一样，组合在一起形成一个完整而创新的教育生态系统。就像大自然中精心制作的花瓣一样，每个模块都经过精心设计，为用户提供强大的专业级体验。
+**Petal Series**: The name "Petal" captures the core nature of our sensors. Featuring a modular design, each component functions like a petal, and together they form a complete and innovative educational ecosystem. Just like the exquisitely crafted petals in nature, every module is meticulously designed to deliver a robust, professional-grade experience for users.
 
-## 产品特性
+## Product Features
 
-### 颜色识别系统
+### Color Identification System
+The product is equipped with a color identification system. The colors of the sensor ports, the expansion board ports, and the software blocks in MakeCode are fully consistent, which lowers the learning barrier for students and effectively improves classroom efficiency.
 
-支持颜色识别系统，传感器端口颜色、扩展板端口颜色、makecode上的软件积木块颜色统一，降低学生上手难度，有效提高课堂效率。
+### Foolproof Interface
+The foolproof interface design prevents incorrect reverse insertion.
 
-### 防呆接口
+### Building Block Compatibility
+The fixing interfaces of structural components are compatible with building block spacing. Sensors or expansion boards can be mounted onto building blocks using screws.
 
-使用防呆接口设计，防止方向插反
-
-### 积木兼容
-
-结构件固定接口兼容积木距离，可以使用螺丝将传感器或者扩展板安装到积木上。
-
-## 目录
+## Table of Contents
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
 
 <DocCardList />
-```

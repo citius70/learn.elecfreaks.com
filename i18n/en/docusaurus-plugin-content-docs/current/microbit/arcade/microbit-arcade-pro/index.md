@@ -26,6 +26,7 @@ It also has multi-scenario adaptability: it can not only serve as an expanded ha
 | Interface Type | Type-C, micro:bit, jacdac |
 | Display Type | TFT LCD Display |
 | Display Specification | 240 × 320 |
+| Screen Size | 2.4 inches |
 | Power Supply | Lithium Battery Power Supply |
 | Charging Voltage | 5V |
 | Charging Current | 1A |

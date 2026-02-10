@@ -27,6 +27,7 @@ micro:bit Arcade Pro是专为micro:bit V2打造的彩屏手柄式扩展板，以
 | 接口类型 | Type-C、micro:bit、jacdac |
 | 屏幕类型 | TFT LCD屏幕 |
 | 屏幕参数 | 240 × 320 |
+| 屏幕尺寸 | 2.4寸 |
 | 供电方式 | 锂电池供电 |
 | 充电电压 | 5V |
 | 充电电流 | 1A |

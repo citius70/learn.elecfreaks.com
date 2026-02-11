@@ -1,98 +1,97 @@
 # Caso 02: Coche de bloques
 
 ## Objetivo
----
 
-- Construye un coche de bloques usando el kit de construcción 6 en 1 Ring:bit.
-
-
+1. **Costruye** un **coche de bloques** usando el kit de construcción 6 en 1 Ring:bit.
+2. **Programa** su comportamineto con Makecode
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_02_01.png)
 
-
 ## Materiales utilizados
----
+
 Kit de construcción de seis piezas en uno.
 
+Puede descargar los pasos de configuración detallados a través del siguiente enlace para descargar el documento PDF.
+[Descargar desde GitHub](https://github.com/elecfreaks/learn-cn/raw/master/microbitKit/ring_bit_bricks_pack/files/Ringbit_Bricks_Pack_step_02_v1.1.pdf)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_02_02.png)
 
 
 
-## Conocimientos previos
----
-
-
-## Construir con bloques
----
-
-
+## FASE DE CONSTRUCCIÓN
 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_02.png)
+## FASE DE CONSTRUCCIÓN
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_02.png)
+## FASE DE CONSTRUCCIÓN
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_03.png)
+## FASE DE CONSTRUCCIÓN
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_04.png)
+## FASE DE CONSTRUCCIÓN
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_05.png)
+## FASE DE CONSTRUCCIÓN
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_06.png)
+## FASE DE CONSTRUCCIÓN
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_07.png)
+## FASE DE CONSTRUCCIÓN
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_08.png)
+## FASE DE CONSTRUCCIÓN
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_09.png)
+## FASE DE CONSTRUCCIÓN
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_10.png)
+## FASE DE CONSTRUCCIÓN
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_11.png)
+## FASE DE CONSTRUCCIÓN
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_12.png)
+## FASE DE CONSTRUCCIÓN
+
+Al realizar el cableado, el cable amarillo debe conectarse a la posición marcada con números (0/1/2) sobre el puerto.
+
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_13.png)
 
 
-***Nota: Al realizar el cableado, el cable amarillo debe conectarse a la posición marcada con números (0/1/2) sobre el puerto.
-
+## FASE DE CONSTRUCCIÓN
 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_14.png)
 
 
 
+## Software
 
-
-
-
-
-
-Puede descargar los pasos de configuración detallados a través del siguiente enlace para descargar el documento PDF.
-[Descargar desde GitHub](https://github.com/elecfreaks/learn-cn/raw/master/microbitKit/ring_bit_bricks_pack/files/Ringbit_Bricks_Pack_step_02_v1.1.pdf)
-
-## software
----
+Software de programación
 
 [Microsoft Makecode](https://makecode.microbit.org/#)
 
-## programación
----
+## PROGRAMACIÓN
 
-### Paso 1
+## Paso 1 de la programación
  Haga clic en "Avanzado" en el cajón de código de MakeCode para ver más opciones de código.
-
+ 
 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_02_03.png)
 
 
+## Paso 1 de la programación
 
 
-
-Para programar la suite Ringbit_Bricks_Pack, necesitamos agregar una biblioteca de extensiones. Busca "Extensiones" en la parte inferior del cajón de código y haz clic en ella. Aparecerá un cuadro de diálogo; busca "Ringbit" y haz clic para descargar la biblioteca.
+Para programarRingbit_Bricks_Pack, necesitamos agregar una **biblioteca de extensiones**.
+Busca **Extensiones** en la parte inferior del cajón de código y haz clic en ella.
+Aparecerá un cuadro de diálogo; busca "**Ringbit**" y haz clic para descargar la biblioteca.
 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_02_04.png)
@@ -102,16 +101,15 @@ Para programar la suite Ringbit_Bricks_Pack, necesitamos agregar una biblioteca 
 
 *Nota:* Si recibe un mensaje que dice que algunas bases de código se eliminarán debido a incompatibilidad, puede continuar según el mensaje o crear un nuevo proyecto en la barra de menú del proyecto.
 
-### Paso 2
+## Paso 2 de la programación
 
-Inserte el bloque “Establecer la rueda izquierda en P1 y la rueda derecha en P2” en el campo “Al encender”, estableciendo la rueda izquierda en el puerto “P1” y la rueda derecha en el puerto “P2”.
+Inserta el bloque “**Establecer la rueda izquierda en P1 y la rueda derecha en P2**” en el campo “**Al encender**”, estableciendo la rueda izquierda en el puerto “P1” y la rueda derecha en el puerto “P2”.
 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_02_05.png)
 
+## Paso 3 de la programación
 
-
-### Paso 3
 
 Como se muestra en la figura, cuando se presiona el botón `A+B`, se mueve hacia adelante a toda velocidad; cuando se presiona el botón `A`, gira a la derecha a toda velocidad; cuando se presiona el botón `B`, gira a la izquierda a toda velocidad; cuando la pantalla está hacia abajo, se mueve hacia atrás a toda velocidad; y cuando el automóvil se sacude, frena.
 

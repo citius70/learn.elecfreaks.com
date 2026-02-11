@@ -1,29 +1,29 @@
-﻿# 案例0ewe2：积木小车
+# Caso 02: Coche de bloques
 
-## 目的
+## Objetivo
 ---
 
-- 使用Ring:bit六合一搭建套件制作一辆积木小车
+- Construye un coche de bloques usando el kit de construcción 6 en 1 Ring:bit.
 
 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_02_01.png)
 
 
-## 使用材料
+## Materiales utilizados
 ---
-[六合一积木搭建套件（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=619734013239)
+Kit de construcción de seis piezas en uno.
 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_02_02.png)
 
 
 
-## 背景知识
+## Conocimientos previos
 ---
 
 
-## 积木搭建
+## Construir con bloques
 ---
 
 
@@ -56,7 +56,7 @@
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_13.png)
 
 
-***注意：接线时黄色线需要连接在端口上方标有数字（0/1/2）的位置。
+***Nota: Al realizar el cableado, el cable amarillo debe conectarse a la posición marcada con números (0/1/2) sobre el puerto.
 
 
 
@@ -70,19 +70,19 @@
 
 
 
-通过下面链接下载PDF文档即可获得详细的搭建步骤图
-[Github下载 ](https://github.com/elecfreaks/learn-cn/raw/master/microbitKit/ring_bit_bricks_pack/files/Ringbit_Bricks_Pack_step_02_v1.1.pdf)
+Puede descargar los pasos de configuración detallados a través del siguiente enlace para descargar el documento PDF.
+[Descargar desde GitHub](https://github.com/elecfreaks/learn-cn/raw/master/microbitKit/ring_bit_bricks_pack/files/Ringbit_Bricks_Pack_step_02_v1.1.pdf)
 
-## 软件
+## software
 ---
 
-[微软makecode](https://makecode.microbit.org/#)
+[Microsoft Makecode](https://makecode.microbit.org/#)
 
-## 编程
+## programación
 ---
 
-### 步骤 1
- 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
+### Paso 1
+ Haga clic en "Avanzado" en el cajón de código de MakeCode para ver más opciones de código.
 
 
 
@@ -92,7 +92,7 @@
 
 
 
-为了给Ringbit_Bricks_Pack套件编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索”Ringbit”，然后点击下载这个代码库。
+Para programar la suite Ringbit_Bricks_Pack, necesitamos agregar una biblioteca de extensiones. Busca "Extensiones" en la parte inferior del cajón de código y haz clic en ella. Aparecerá un cuadro de diálogo; busca "Ringbit" y haz clic para descargar la biblioteca.
 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_02_04.png)
@@ -100,20 +100,20 @@
 
 
 
-*注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
+*Nota:* Si recibe un mensaje que dice que algunas bases de código se eliminarán debido a incompatibilidad, puede continuar según el mensaje o crear un nuevo proyecto en la barra de menú del proyecto.
 
-### 步骤 2
+### Paso 2
 
-在`当开机时`中插入`设置左轮连接P1右轮连接P2`积木块，设置左轮为`P1`口。右轮为`P2`口。
+Inserte el bloque “Establecer la rueda izquierda en P1 y la rueda derecha en P2” en el campo “Al encender”, estableciendo la rueda izquierda en el puerto “P1” y la rueda derecha en el puerto “P2”.
 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_02_05.png)
 
 
 
-### 步骤 3
+### Paso 3
 
-如图所示，当按钮`A+B`按下时`全速前进`，当按钮`A`按下时`全速右转`，当按钮`B`按下时`全速左转`，当`屏幕朝下`时`全速后退`，当摇晃小车时`刹车`。
+Como se muestra en la figura, cuando se presiona el botón `A+B`, se mueve hacia adelante a toda velocidad; cuando se presiona el botón `A`, gira a la derecha a toda velocidad; cuando se presiona el botón `B`, gira a la izquierda a toda velocidad; cuando la pantalla está hacia abajo, se mueve hacia atrás a toda velocidad; y cuando el automóvil se sacude, frena.
 
 
 
@@ -122,44 +122,44 @@
 
 
 
-### 程序
+### programa
 
-请参考程序连接：[https://makecode.microbit.org/_CjrAJLi2mg7w](https://makecode.microbit.org/_CjrAJLi2mg7w)
+Consulte el enlace del programa: [https://makecode.microbit.org/_CjrAJLi2mg7w](https://makecode.microbit.org/_CjrAJLi2mg7w)
 
-你也可以通过以下网页直接下载程序。
+También puedes descargar el programa directamente desde la siguiente página web.
 
-<div
-    style={{
-        position: 'relative',
-        paddingBottom: '60%',
-        overflow: 'hidden',
+<división
+    estilo={{
+        posición: 'relativa',
+        relleno inferior: '60%',
+        desbordamiento: 'oculto',
     }}
 >
-    <iframe
-        src="https://makecode.microbit.org/_CjrAJLi2mg7w"
-        frameborder="0"
-        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
-        style={{
-            position: 'absolute',
-            width: '100%',
-            height: '100%',
+    <iframe>
+        origen="https://makecode.microbit.org/_CjrAJLi2mg7w"
+        borde del marco="0"
+        sandbox="permitir ventanas emergentes permitir formularios permitir scripts permitir el mismo origen"
+        estilo={{
+            posición: 'absoluta',
+            ancho: '100%',
+            altura: '100%',
         }}
     />
 </div>
 
-### 现象
+### Fenómeno
 ---
-当按钮`A+B`按下时小车前进行驶，当按钮`A`按下时小车向右转向，当按钮`B`按下时小车向左转向，当`屏幕朝下`后将小车放置在地面上时，小车向后行驶，当用力摇晃小车时，小车轮子停止转动。
+Al pulsar el botón A+B, el coche avanza. Al pulsar el botón A, gira a la derecha. Al pulsar el botón B, gira a la izquierda. Al apoyar el coche en el suelo con la pantalla hacia abajo, retrocede. Al sacudirlo con fuerza, las ruedas dejan de girar.
 
 
-## 思考
+## pensar
 ---
 
-## 常见问题
+## Preguntas frecuentes
 ---
-## 相关阅读
+## Lecturas relacionadas
 ---
-1769年，法国人N·J·居纽制造了世界上第一辆蒸汽驱动的三轮汽车，这辆汽车被命名为“卡布奥雷”。
-世界上第一辆汽车是由德国人卡尔·本茨于1885年10月研制成功的，一举奠定了汽车设计基调，即使现在的汽车也跳不出这个框框。他于1886年1月29日向德国专利局申请汽车发明的专利，同年的11月2日专利局正式批准发布。因此，1886年1月29日被公认为是世界汽车的诞生日，本茨的专利证书也成为了世界上第一张汽车专利证书。
-1885年，德国人哥特里布·戴姆勒发明了第一辆四轮汽车。
-本茨和戴姆勒是人们公认的以内燃机为动力的现代汽车的发明者，他们的发明创造，成为汽车发展史上最重要的里程碑，他们两人因此被世人尊称为“汽车之父”。
+En 1769, el francés N.J. Cugnot construyó el primer automóvil de tres ruedas propulsado por vapor del mundo, que recibió el nombre de "Cappuccino".
+El primer automóvil del mundo fue desarrollado por el alemán Karl Benz en octubre de 1885, marcando la pauta en el diseño automovilístico de una forma que sigue vigente hoy en día. Solicitó una patente para su invento ante la Oficina Alemana de Patentes el 29 de enero de 1886, y la patente le fue concedida oficialmente el 2 de noviembre del mismo año. Por lo tanto, el 29 de enero de 1886 es ampliamente reconocido como la fecha del nacimiento del automóvil, y el certificado de patente de Benz se convirtió en el primer certificado de patente automotriz del mundo.
+En 1885, el alemán Gottlieb Daimler inventó el primer automóvil de cuatro ruedas.
+Benz y Daimler son ampliamente reconocidos como los inventores del automóvil moderno propulsado por motor de combustión interna. Sus inventos se convirtieron en los hitos más importantes en la historia del desarrollo automotriz, por lo que se les venera como los "padres del automóvil".
